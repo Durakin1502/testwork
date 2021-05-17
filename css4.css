@@ -1,0 +1,10 @@
+input:invalid{
+  background-color: rgb(255, 227, 227) ;
+}
+input:valid{
+  background-color: rgb(173, 247, 100);
+}
+
+h6, p{
+  text-align: center;
+}

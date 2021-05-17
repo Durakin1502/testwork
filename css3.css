@@ -1,0 +1,11 @@
+#disabled:disabled{
+  background-color: rgb(199, 211, 97);
+}
+
+#danger:hover{
+  background-color: red;
+}
+
+#active:active{
+  background-color: greenyellow;
+}
